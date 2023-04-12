@@ -1,5 +1,5 @@
 {
-    "name": "nullform/app-store-server-api-client",
+    "name": "tanghengzhi/app-store-server-api-client",
     "description": "PHP client for App Store Server API.",
     "type": "library",
 	"keywords": ["apple", "app store", "app store server api", "itunes"],
